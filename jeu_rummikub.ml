@@ -4,10 +4,7 @@
 *          PROJET - LE JEU DU RUMMIKUB                                         *        
 *                                                                              *
 ********************************************************************************
-* Date : 10 Fevrier 2020                                                       *
-* Groupe : 06                                                                  *
-* Etudiant 1 : Soumahoro Mohamed kevin                                         *
-* Etudiant 2 : Maillet David                                                   *
+* Etudiant : Soumahoro Mohamed kevin                                           *
 ******************************************************************************** 
 
 *)
